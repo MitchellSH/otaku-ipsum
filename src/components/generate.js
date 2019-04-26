@@ -2,6 +2,7 @@ import React from 'react'
 import Form from './form'
 import Output from './output'
 
+// word source https://www.japanpowered.com/japan-culture/otaku-language-dictionary
 const words = ['otaku', 'ultra man', 'takoyaki', 'okonomiyaki', 'green tea', 'erogi', 'fanservice', 'hai', 'hentai', 'hikikomori', 'honorifics', 'iie', 'japanophile', 'josei', 'loli', 'lolicon', 'magical girl', 'mangaka', 'mecha', 'moe', 'megane', 'nekomimi', 'oneesan', 'oniisan', 'ova', 'panties', 'panty fetish', 'seinan', 'uke', 'seme', 'yuri', 'yuki', 'weeaboo', 'cosplay', 'dub', 'doujinshi', 'ecchi', 'dandere', 'desu', 'baka', 'ramen', 'onigiri', 'godzilla', 'mothra', 'cowboy bebop', 'sushi', 'sake', 'pokemon', 'anime', 'manga', 'kawaii', 'japan', 'japanese', 'konichiwa', 'watashi', 'senpai', 'inuyasha', 'sakura', 'cherry blossom', 'dango', 'matcha', 'green tea', 'chibi', 'miyazaki', 'totoro', 'grave of the fireflies', 'your name', 'makoto shinkai', 'ghost in the shell', 'tea']
 
 class Generate extends React.Component {
